@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software developer currently looking for a new opportunities. Former employers can be found on my Linked In.
+
+I've coded in React, Next, Angular, ExtJs, Vue, vanilla, jquery and done some basic local site building from raw HTML/CSS. I've worked with Spring Boot, Quarkus and visited the ancient ones (STRUTS). I've written a few bash scripts as well as a few command and python scripts. I used to run with the C++ crowd, but haven't had to run a make file in quite some time.
 <!--
 **UnderPenalty/UnderPenalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
