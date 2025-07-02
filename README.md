@@ -5,6 +5,9 @@ I'm a software developer currently looking for a new opportunities. Former emplo
 I've coded in React, Next, Angular, ExtJs, Vue, vanilla, jquery and done some basic local site building from raw HTML/CSS. I've worked with Spring Boot, Quarkus and visited the ancient ones (STRUTS). I've written a few bash scripts as well as a few command and python scripts. I used to run with the C++ crowd, but haven't had to run a make file in quite some time. I've worked with LabVIEW when mentoring for FIRST robotics as well as a in college.
 
 I have a passion for modding/hacking devices and re-using old technology to give it new life. 
+
+[Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
 <!--
 **UnderPenalty/UnderPenalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
